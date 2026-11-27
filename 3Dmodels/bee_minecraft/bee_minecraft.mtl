@@ -1,0 +1,107 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Material.001
+Tr 0.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
+map_Kd Material.001.png
+
+newmtl Material.002
+Tr 0.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
+map_Kd Material.001.png
+
+newmtl Material.003
+Tr 0.0000
+illum 1
+Pr 0.41295363947775837
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0 0
+Ke 0 0 0
+
+newmtl Material.004
+Tr 0.0000
+illum 1
+Pr 0.1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
+map_Kd Material.001.png
+
+newmtl Material.005
+Tr 0.0000
+illum 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
+map_Kd Material.001.png
+
+newmtl Material.010
+Tr 0.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.17255475636383563 0.16471153166740501 0.16471153166740501
+Ke 0 0 0
+
+newmtl Material.013
+Tr 0.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
+map_Kd Material.001.png
+
+newmtl Material.009
+Tr 0.0000
+illum 1
+Pm 0.933824
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.1882408863563178 0.168632876555675 0.2156922500164743
+Ke 0 0 0
+
+newmtl Material.014
+Tr 0.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.3725546164854834 0.1960840898542578 0.14510327114509955
+Ke 0 0 0
+
+newmtl Material.011
+Tr 0.0000
+illum 1
+Pr 0.169118
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.9999999999999999 0.9999999999999999 0.9999999999999999
+Ke 0 0 0
